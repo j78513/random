@@ -1,0 +1,37 @@
+1890 Cavalry
+1890 Cavalry
+1865 Carbine
+1865 Carbine
+1865 Carbine Aperture
+1865 Carbine Silencer
+Auto-4 Shorty
+Berthier 1892
+Berthier 1892
+Berthier 1892 Riposte
+Berthier 1892 Deadeye
+Berthier 1892 Marksman
+Bomb Lance
+Bomb Lance
+Dolch 96 Precision
+Frontier 73C
+Frontier 73C
+Frontier 73C Silencer
+Frontier 73C Marksman
+Hunting Bow
+Hunting Bow
+LeMat Carbine
+LeMat Carbine
+LeMat Carbine Marksman
+Uppercut Precision
+Uppercut Deadeye
+Officer Carbine
+Officer Carbine
+Officer Carbine Deadeye
+Vetterli 71
+Vetterli 71
+Vetterli 71 Deadeye
+Vetterli 71 Marksman
+Vetterli 71 Bayonet
+Vetterli 71 Silencer
+Mosin Obrez Match
+Mosin Obrez Sharpeye
