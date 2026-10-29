@@ -1,0 +1,71 @@
+Crossbow
+Crossbow
+Crossbow Deadeye
+Centennial
+Centennial
+Centennial Sniper
+Centennial Trauma
+Drilling
+Drilling
+Infantry 73L
+Infantry 73L
+Infantry 73L Bayonet
+Infantry 73L Sniper
+Krag
+Krag
+Krag Bayonet
+Krag Sniper
+Krag Silencer
+Lebel 1886
+Lebel 1886
+Lebel 1886 Aperture
+Lebel 1886 Talon
+Lebel 1886 Marksman
+Mako 1895
+Mako 1895
+Mako 1895 Claw
+Mako 1895 Aperture
+Marathon
+Marathon
+Marathon Swift
+Martini-Henry
+Martini-Henry
+Martini-Henry Deadeye
+Martini-Henry Riposte
+Martini-Henry Marksman
+Martini-Henry Ironside
+Maynard Sniper
+Maynard Sniper
+Mosin-Nagant
+Mosin-Nagant
+Mosin-Nagant Bayonet
+Mosin-Nagant Sniper
+Ranger 73
+Ranger 73
+Ranger 73 Aperture
+Ranger 73 Talon
+Ranger 73 Swift
+Rival 78
+Rival 78
+Rival 78 Trauma
+Romero 77
+Romero 77
+Romero 77 Talon
+Romero 77 Alamo
+Slate
+Slate
+Slate Riposte
+Sparks
+Sparks
+Sparks Silencer
+Sparks Sniper
+Specter 1882
+Specter 1882
+Specter 1882 Bayonet
+Springfield 1866
+Springfield 1866
+Springfield 1866 Marksman
+Springfield 1866 Bayonet
+Terminus
+Terminus
+Vetterli 71 Cyclone
